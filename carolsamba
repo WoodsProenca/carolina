@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sátira: Carolina foi pro samba</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+        margin: 0;
+        padding: 0;
+    }
+    h1 {
+        text-align: center;
+        margin-top: 30px;
+    }
+    p {
+        margin: 20px;
+        line-height: 1.6;
+    }
+    .highlight {
+        color: #d82c2c;
+        font-weight: bold;
+    }
+</style>
+</head>
+<body>
+
+<h1>Sátira: Carolina foi pro samba</h1>
+
+<p>
+  <span class="highlight">Carolina</span> é uma moça tranquila, nunca saiu para dançar,<br>
+  Mas essa história mudou, você precisa acreditar.<br>
+  Um dia, <span class="highlight">Carolina</span> decidiu que era hora de se aventurar,<br>
+  E ela fez algo inesperado, você não vai acreditar.
+</p>
+
+<p>
+  Ela deixou seus livros e seu laptop em casa,<br>
+  E foi diretamente para o samba, com graça.<br>
+  Lá, ela se encontrou com amigos e começou a dançar,<br>
+  E a partir daquele momento, nada mais a poderia parar.
+</p>
+
+<p>
+  No samba, <span class="highlight">Carolina</span> era uma rainha,<br>
+  Ela girava e sambava com uma alegria sem igual.<br>
+  Todos a olhavam admirados, sem piscar,<br>
+  Pois <span class="highlight">Carolina</span> no samba sabia como brilhar.
+</p>
+
+<p>
+  Então, da próxima vez que você pensar em <span class="highlight">Carolina</span>,<br>
+  Lembre-se desta história, não a subestime.<br>
+  Pois <span class="highlight">Carolina</span> foi pro samba e mostrou sua grandeza,<br>
+  E agora ela é conhecida por sua destreza!
+</p>
+
+</body>
+</html>
